@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/celery-wheelhouse/commit/fbe99121ac8d0aa50e0f55abeb1f0814c4b098f7",
       "git:hexsha": "fbe99121ac8d0aa50e0f55abeb1f0814c4b098f7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
