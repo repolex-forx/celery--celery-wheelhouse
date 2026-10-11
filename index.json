@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "celery-wheelhouse",
+  "versions": [
+    {
+      "commit": "fbe99121ac8d0aa50e0f55abeb1f0814c4b098f7",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:40:27.641545+00:00"
+    }
+  ]
+}
